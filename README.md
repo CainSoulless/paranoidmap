@@ -1,7 +1,7 @@
 # ParanoidMap
 Paranoidmap, script writen in python that automate ports scan with nmap depending on the time you indicate, creating an txt file with the output and sending it in a email as notification system on pentesting or Red Teaming operations. In some times you want to automate the recon phase while having an history about the port schedule of the target.
 
-Installation:
+# Installation:
 
 The modules used has been installed by default in a system, but in case of need exist a "requirement.txt" in the repository. (Optional) Run the following command below:
 ```
@@ -19,12 +19,13 @@ python3 paranoidmap.py
 ```
 In the script just put the time in 24 hours format (HH:MM:SS AM/PM) and enter the password of email sender (not put it in a variable, just for security).
 
-Gmail configuration: The only important thing you need to do in your sender gmail is enable the "less secure app" function:
+# Gmail configuration: 
+The only important thing you need to do in your sender gmail is enable the "less secure app" function:
 
 https://myaccount.google.com/lesssecureapps
 
 And remove it from the spam section in the second email (receiver).
 
-PD:
+# PD:
 If you want to optimize the code or made contrubution send me a message. Thank you!.
 (Lab 1 by the The Hacker Playbook 3).
