@@ -24,3 +24,7 @@ Gmail configuration: The only important thing you need to do in your sender gmai
 https://myaccount.google.com/lesssecureapps
 
 And remove it from the spam section in the second email (receiver).
+
+PD:
+If you want to optimize the code or made contrubution send me a message. Thank you!.
+(Lab 1 by the The Hacker Playbook 3).
