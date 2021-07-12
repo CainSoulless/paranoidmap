@@ -17,15 +17,24 @@ Instructions: For now is necesarily to change the "sender", "receiver" and "targ
 vi paranoidmap.py
 python3 paranoidmap.py
 ```
+![Screenshot from 2021-07-11 21-55-20](https://user-images.githubusercontent.com/38092779/125223761-4e36fe80-e29a-11eb-9bbf-e08c6c422874.png)
+
 In the script just put the time in 24 hours format (HH:MM:SS AM/PM) and enter the password of email sender (not put it in a variable, just for security).
 
 # Gmail configuration: 
 The only important thing you need to do in your sender gmail is enable the "less secure app" function:
+![Screenshot from 2021-07-11 21-54-07](https://user-images.githubusercontent.com/38092779/125223822-673faf80-e29a-11eb-8bc2-0299bdae8baa.png)
 
 https://myaccount.google.com/lesssecureapps
 
 And remove it from the spam section in the second email (receiver).
+![Untitled design](https://user-images.githubusercontent.com/38092779/125223809-63139200-e29a-11eb-92b4-98e06a35477a.png)
 
 # PD:
 If you want to optimize the code or made contrubution send me a message. Thank you!.
 (Lab 1 by the The Hacker Playbook 3).
+
+
+
+
+
