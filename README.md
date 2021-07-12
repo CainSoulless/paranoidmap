@@ -1,3 +1,5 @@
+![Screenshot from 2021-07-11 22-52-31](https://user-images.githubusercontent.com/38092779/125224132-fd73d580-e29a-11eb-8fa9-12b31fab7ef2.png)
+
 # ParanoidMap
 Paranoidmap, script writen in python that automate ports scan with nmap depending on the time you indicate, creating an txt file with the output and sending it in a email as notification system on pentesting or Red Teaming operations. In some times you want to automate the recon phase while having an history about the port schedule of the target.
 
